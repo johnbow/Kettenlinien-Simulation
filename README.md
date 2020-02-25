@@ -5,7 +5,7 @@ Die Datei Kettenlinie_Simulation.jar beinhaltet die Simulation und sollte auf
 allen Rechnern plattformunabhängig laufen.
 Die Datei auswertung.py kann nur mit Entwicklerwerkzeugen brauchbare Daten liefern.
 Empfohlen ist, auswertung.py außen vor zu lassen.
-In der OpenOffice Datei KettenlinienCode findet man den von mir geschriebenen Code,
+In der OpenOffice Datei quellcode.odt findet man den von mir geschriebenen Code,
 den man bei Bedarf einmal durchblättern und sich angucken kann.
 
 # Installation
