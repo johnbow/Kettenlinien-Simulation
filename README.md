@@ -14,4 +14,4 @@ Dies ist auf den meisten Rechnern vorinstalliert.
 Sollte Java nicht auf dem PC installiert sein, so muss man eine 
 Java-Distribution (Java Runtime Environment) kostenfrei auf
 https://www.java.com/de/download/windows-64bit.jsp herunterladen und installieren.
-Danach kann das Programm per Doppelklick ausgeführt werden.
+Danach kann das Programm per Doppelklick auf die .jar Datei ausgeführt werden.
